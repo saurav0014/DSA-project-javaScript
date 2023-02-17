@@ -1,2 +1,2 @@
-# javaScript
+# DSA javaScript
 Javascript Projects
