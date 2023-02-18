@@ -2,5 +2,5 @@
 function areaOfTringle(base,height){
     return `Area of Tringle is :${(base*height)/2}`
 }
-const returnValue = areaOfTringle(5,10)
+const returnValue = areaOfTringle(10,10)
 console.log(returnValue)
